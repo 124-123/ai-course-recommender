@@ -1,0 +1,6 @@
+course_id,title,category,difficulty
+1,Introduction to Python,Programming,Beginner
+2,Data Science with Pandas,Data Science,Intermediate
+3,Machine Learning Basics,Machine Learning,Intermediate
+4,Deep Learning with TensorFlow,Deep Learning,Advanced
+5,Natural Language Processing (NLP),AI/NLP,Advanced
