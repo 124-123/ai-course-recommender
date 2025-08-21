@@ -30,7 +30,7 @@ ai-course-recommender/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-course-recommender.git
+git clone https://github.com/124-123/ai-course-recommender.git
 cd ai-course-recommender
 ```
 
